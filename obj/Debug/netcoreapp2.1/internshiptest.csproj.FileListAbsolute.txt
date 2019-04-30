@@ -1,0 +1,11 @@
+C:\Users\natal\Desktop\Internship Test\bin\Debug\netcoreapp2.1\internshiptest.deps.json
+C:\Users\natal\Desktop\Internship Test\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.json
+C:\Users\natal\Desktop\Internship Test\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Internship Test\bin\Debug\netcoreapp2.1\internshiptest.dll
+C:\Users\natal\Desktop\Internship Test\bin\Debug\netcoreapp2.1\internshiptest.pdb
+C:\Users\natal\Desktop\Internship Test\obj\Debug\netcoreapp2.1\internshiptest.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\Internship Test\obj\Debug\netcoreapp2.1\internshiptest.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Internship Test\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Internship Test\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfo.cs
+C:\Users\natal\Desktop\Internship Test\obj\Debug\netcoreapp2.1\internshiptest.dll
+C:\Users\natal\Desktop\Internship Test\obj\Debug\netcoreapp2.1\internshiptest.pdb
